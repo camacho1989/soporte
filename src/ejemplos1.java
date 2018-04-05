@@ -10,4 +10,9 @@
  */
 public class ejemplos1 {
     
+    public static void main(string[] args) {
+        int numero;
+        numero=1;
+        system.out.println("El numero es: "+ 1);
+    }
 }
